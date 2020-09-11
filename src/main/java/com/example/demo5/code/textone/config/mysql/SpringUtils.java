@@ -1,4 +1,4 @@
-package com.example.demo5.code.textone.config;
+package com.example.demo5.code.textone.config.mysql;
 
 import lombok.Getter;
 import org.springframework.beans.BeansException;
